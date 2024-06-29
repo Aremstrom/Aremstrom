@@ -7,7 +7,7 @@ Data Science
 I'm a passionate data enthusiast based in Gandhinagar, Gujarat. Currently, I'm on a fascinating journey pursuing my Master's in Data Science at Pandit Deendayal Energy University, Gandhinagar, Gujarat, India. My academic pursuits are driven by a deep curiosity about the world of data and its endless possibilities.
 
 * 🌍  I'm based in Gandhinagar, Gujarat
-* ✉️  You can contact me at [jaypadhiyar62689@gmail.com](mailto:jaypadhiyar62689@gmail.com)
+* ✉️  You can contact me at [jay.worrk@gmail.com](mailto:jay.worrk@gmail.com)
 * 🧠  I'm learning React , Typescript
 * 🤝  I'm open to collaborating on Data Science , Machine Learning And Language Models
 * ⚡  I thrive on challenges that scare the hell out of me!
